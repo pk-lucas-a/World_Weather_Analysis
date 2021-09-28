@@ -1,9 +1,9 @@
 # World_Weather_Analysis
 
 ## Resources
-Software: Python 3.7.11, Jupyter Notebook 6.4.3, 
-Installed Python packages: gmaps, pandas, requests, matplotlib, citipy
-Openweather api key
+Software: Python 3.7.11, Jupyter Notebook 6.4.3.
+Installed Python packages: gmaps, pandas, requests, matplotlib, citipy.
+Openweather api key.
 Google api key for Directions, Geocoding, Google Cloud, Places, Maps, and JSON.
 
 ## Overview
